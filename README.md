@@ -10,4 +10,4 @@ For a starting point on features AdonisPOS currently lacks, see the [issues page
 
 # License
 
-AdonisPOS is [MIT licensed](./LICENSE).
+AdonisPOS is [Apache licensed](./LICENSE).
