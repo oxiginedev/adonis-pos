@@ -1,5 +1,7 @@
 # Adonis Point of Sales
 
+[![Tests](https://github.com/Adedaramola/adonis-pos/actions/workflows/tests.yml/badge.svg)](https://github.com/Adedaramola/adonis-pos/actions/workflows/tests.yml)
+
 Self-hosted point of sale system for small to medium retail businesses.
 
 # Contributing
